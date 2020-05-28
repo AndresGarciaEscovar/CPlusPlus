@@ -1,0 +1,11 @@
+Molecule Name:,Monomer
+Number of atoms:,1
+Big disk bounding radius:,1
+Center of Mass:,1,0
+Principal x-axis:,1,0
+Principal y-axis:,0,1
+Atom number 1 coordinate radius:,1,0,1
+"Diffusion Tensor D={{Dtt;Dtr^T},{Dtr;Drr}} in the center of mass:",,,
+1,0,0
+0,1,0
+0,0,1

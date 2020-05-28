@@ -1,0 +1,13 @@
+Molecule Name:,Trimer
+Number of atoms:,3
+Big disk bounding radius:,3
+Center of Mass:,-3,0
+Principal x-axis:,1,0
+Principal y-axis:,0,1
+Atom number 1 coordinate radius:,-1,0,1
+Atom number 2 coordinate radius:,-3,0,1
+Atom number 3 coordinate radius:,-5,0,1
+"Diffusion Tensor D={{Dtt;Dtr^T},{Dtr;Drr}} in the center of mass:",,,
+1,0,0
+0,1,0
+0,0,1
